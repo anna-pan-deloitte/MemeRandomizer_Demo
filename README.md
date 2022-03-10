@@ -1,5 +1,5 @@
 # MemeRandomizer_Demo
-Demo for UI Engineering Guild Presentation - Intro to Mobile Dev for Web Devs
+Demo for UI Engineering Guild Presentation - Intro to iOS Dev for Web Devs
 
 # Demo Starter
 In this folder you'll find an Xcode project already set up for you to jump right in. 
